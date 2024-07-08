@@ -1,6 +1,5 @@
-# http://editorconfig.org
 root = true
-
+# 编辑工具的设置
 # 空格替代Tab缩进在各种编辑工具下效果一致
 [*]
 indent_style = space
