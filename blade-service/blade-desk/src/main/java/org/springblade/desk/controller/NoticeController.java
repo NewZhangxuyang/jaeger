@@ -109,7 +109,7 @@ public class NoticeController extends BladeController implements CacheNames {
 	}
 
 	/**
-	 * 删除
+	 * 删除数据测试
 	 */
 	@PostMapping("/remove")
 	@ApiOperationSupport(order = 6)
