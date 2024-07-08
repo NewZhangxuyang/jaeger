@@ -64,7 +64,7 @@ public class NoticeController extends BladeController implements CacheNames {
 	}
 
 	/**
-	 * 分页返回
+	 * 分页返回数据
 	 */
 	@GetMapping("/list")
 	@Parameters({
