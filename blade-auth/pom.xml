@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>SpringBlade</artifactId>
+        <artifactId>blade-jaeger</artifactId>
         <groupId>org.springblade</groupId>
         <version>4.0.0</version>
     </parent>
