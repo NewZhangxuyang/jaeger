@@ -89,7 +89,7 @@ public class NoticeController extends BladeController implements CacheNames {
 	}
 
 	/**
-	 * 修改
+	 * 修改数据
 	 */
 	@PostMapping("/update")
 	@ApiOperationSupport(order = 4)
