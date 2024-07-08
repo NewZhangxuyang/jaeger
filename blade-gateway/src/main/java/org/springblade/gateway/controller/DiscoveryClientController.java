@@ -41,6 +41,8 @@ public class DiscoveryClientController {
 	private final DiscoveryClient discoveryClient;
 
 	/**
+	 *
+	 *
 	 * 获取服务实例
 	 */
 	@GetMapping("/instances")
